@@ -4,6 +4,6 @@ Data used to produce the paper: "The September 6, 2017 X9 super flare observed f
 
 Because of the 100 MBi github limit, the SP30T telescope included data here is only one frame every 10 seconds (insetad of 1 per second.)
 
-See the wiki for more information.
+See  https://github.com/guigue/SOL20170906/wiki for more information.
 
 If you use these data to produce a new scientific work please add the following sentence in the acknowledgments: "SP30T and SST telescopes belong to Universidade Presbiteriana Mackenzie, São Paulo, Brazil and the operations are supported through FAPESP, Mackpesquisa and AFOSR grants."
